@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="Body">body</string>
+    <string name="url">URL</string>
+    <string name="show">Show</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="search">Search</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="choose">Choose</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="addMovieManually">Add Movie Manually"</string>
+    <string name="addMovieByInternet">Add Movie By Internet"</string>
+    <string name="deleteAll">Delete all</string>
+    <string name="exit">Exit</string>
+    <string name="addMovie">Add movie</string>
+    <string name="settings">Settings</string>
+</resources>
